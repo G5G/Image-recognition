@@ -1,0 +1,11 @@
+Main
+person
+car
+bike
+plant
+light
+bus
+truck
+dog
+cat
+bird

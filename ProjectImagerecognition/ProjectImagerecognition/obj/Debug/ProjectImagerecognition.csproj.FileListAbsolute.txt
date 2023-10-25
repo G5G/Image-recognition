@@ -1,0 +1,33 @@
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.exe.config
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.exe
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.pdb
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csprojResolveAssemblyReference.cache
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Form1.resources
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Properties.Resources.resources
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csproj.GenerateResource.cache
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csproj.CoreCompileInputs.cache
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.exe
+C:\Users\123li\Desktop\ProjectImagerecognition\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.pdb
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.exe.config
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.exe
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.pdb
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Form1.resources
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Properties.Resources.resources
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csproj.GenerateResource.cache
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csproj.CoreCompileInputs.cache
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.exe
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.pdb
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csprojResolveAssemblyReference.cache
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Neuralnetworktrainer.resources
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Setuptrain.resources
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.exe.config
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.exe
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Debug\ProjectImagerecognition.pdb
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csprojAssemblyReference.cache
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Form1.resources
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Neuralnetworktrainer.resources
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Properties.Resources.resources
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.Setuptrain.resources
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.csproj.GenerateResource.cache
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.exe
+D:\backed up programs\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Debug\ProjectImagerecognition.pdb

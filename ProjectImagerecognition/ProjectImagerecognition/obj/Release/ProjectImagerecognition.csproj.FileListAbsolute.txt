@@ -1,0 +1,10 @@
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Release\ProjectImagerecognition.exe.config
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Release\ProjectImagerecognition.exe
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\bin\Release\ProjectImagerecognition.pdb
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Release\ProjectImagerecognition.csprojResolveAssemblyReference.cache
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Release\ProjectImagerecognition.Form1.resources
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Release\ProjectImagerecognition.Properties.Resources.resources
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Release\ProjectImagerecognition.csproj.GenerateResource.cache
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Release\ProjectImagerecognition.csproj.CoreCompileInputs.cache
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Release\ProjectImagerecognition.exe
+C:\Users\123li\Desktop\ProjectImagerecognition - Copy\ProjectImagerecognition\obj\Release\ProjectImagerecognition.pdb
